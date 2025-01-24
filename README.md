@@ -1,7 +1,5 @@
 # DEATHTOOL V3
-since 2021 <3
-version: 3.0.0
-rerelease: march-april
+since 2021 <3 --- version: 3.0.0 --- rerelease: march-april
 
 # Information on the use of the program
 This program, DEATHTOOL, was developed by me for exercise purposes.
